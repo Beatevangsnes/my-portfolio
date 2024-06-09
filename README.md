@@ -45,7 +45,7 @@ npm run dev
 
 ## Deployed Sites
 
-Netlify Deployment, [Holidaze Booking Site](https://beate-vangsnes-portfolio.netlify.app/)
+Netlify Deployment, [Portfolio Webpage](https://beate-vangsnes-portfolio.netlify.app/)
 
 ## Contact
 
