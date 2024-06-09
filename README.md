@@ -1,8 +1,52 @@
-# React + Vite
+# Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+Portfolio website.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Built With
+
+- [React.js](https://reactjs.org/)
+- [Tailwind](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/)
+
+## Getting started
+
+### Installation
+
+1. Clone the project
+
+```
+https://github.com/Beatevangsnes/Portfolio.git
+```
+
+2. Install NPM packages
+
+```
+npm install or yarn install
+```
+
+3. Start the project
+
+```
+npm start
+```
+
+### Run the application
+
+1. Start the development server
+
+```
+npm run dev
+```
+
+2. View in Browser
+   Open the provided localhost link in your preferred web browser
+
+## Deployed Sites
+
+Netlify Deployment, [Holidaze Booking Site](https://beate-vangsnes-portfolio.netlify.app/)
+
+## Contact
+
+[My LinkedIn page](https://www.linkedin.com/in/beate-vangsnes/)
