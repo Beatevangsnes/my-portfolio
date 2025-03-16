@@ -5,7 +5,7 @@ import { SOCIAL_LINKS } from '../constants';
 
 const Navbar = () => {
   return (
-    <nav className="mb-20 flex items-center justify-between py-6">
+    <nav className=" flex items-center justify-between">
       <div className="flex flex-shrink-0 items-center">
         <img src={logo} alt="Beate Vangsnes logo" className="mx-2 w-10" />
       </div>

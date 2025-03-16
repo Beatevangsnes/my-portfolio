@@ -3,7 +3,7 @@ import auctionHouse from "../assets/projects/auctionHouse.png";
 import holidaze from "../assets/projects/holidaze.png";
 
 export const HERO_CONTENT =
-  "My name is Beate Vangsnes, and I am a 25-year-old frontend developer. I recently completed my studies in frontend development at Noroff, and I am currently finishing my bachelor's degree in Information Science at the University of Bergen. While my primary focus is on frontend technologies, I am also in the process of learning backend development.";
+  "I am a 26 year old developer with a passion for design and web development.";
 
 export const SOCIAL_LINKS = {
   linkedin: "https://www.linkedin.com/in/beate-vangsnes/",
