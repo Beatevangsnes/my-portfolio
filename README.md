@@ -17,7 +17,7 @@ Portfolio website.
 1. Clone the project
 
 ```
-https://github.com/Beatevangsnes/Portfolio.git
+https://github.com/Beatevangsnes/my-portfolio.git
 ```
 
 2. Install NPM packages
@@ -45,7 +45,7 @@ npm run dev
 
 ## Deployed Sites
 
-Netlify Deployment, [Portfolio Webpage](https://beate-vangsnes-portfolio.netlify.app/)
+Netlify Deployment, [Portfolio Webpage](https://beatev.netlify.app/)
 
 ## Contact
 
