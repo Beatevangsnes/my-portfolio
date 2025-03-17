@@ -11,9 +11,6 @@ export const SOCIAL_LINKS = {
   instagram: "https://www.instagram.com/beatevangsnes/",
 };
 
-export const ABOUT_TEXT =
-  "I am a dedicated and versatile frontend developer with a passion for creating efficient and user-friendly web applications. I recently completed my studies in frontend development at Noroff, where I learned a wide range of technologies including HTML, CSS, React, JavaScript, working with APIs, and CSS frameworks like Tailwind. At Noroff, we also designed projects in Figma which we later coded. I am currently finishing my bachelor's degree in Information Science at the University of Bergen, where I have also gained experience with Python.\n\nMy journey in web development began with a deep curiosity for how things work, and it has led me to continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions.\n\nOutside of coding, I enjoy staying active, skiing, hiking, cooking, gaming, and being social.";
-
 export const EXPERIENCES = [
   {
     year: "2023 - Present",

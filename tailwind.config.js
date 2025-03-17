@@ -9,6 +9,6 @@ export default {
         custom_black: "#14293a",
     },
    },
-  },
-  plugins: [],
+  },  
+  plugins: [require("daisyui")],
 };
