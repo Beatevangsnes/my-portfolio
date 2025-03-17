@@ -52,24 +52,7 @@ export const PROJECTS = [
     netlify: "https://project-exam-2-bv.netlify.app/",
     github: "https://github.com/Beatevangsnes/Project-exam-2",
   },
-  {
-    title: "Online-Shop",
-    image: onlineShop,
-    description:
-      "This React-based e-commerce store uses the Noroff API to display products, manage a shopping cart, and handle user checkout. It employs Vite for faster development and React Router for navigation across various pages.",
-    technologies: ["React", "Tailwind", "Vite"],
-    netlify: "https://javascript-frameworks-bv.netlify.app/",
-    github: "https://github.com/Beatevangsnes/javascript-frameworks-ca",
-  },
-  {
-    title: "Auction House Website",
-    image: auctionHouse,
-    description:
-      "An online auction platform where users can buy and sell items through bidding. New users receive 1000 credits for bidding or earning more credits by selling items. Registered users can bid on listings, while non-registered users can only browse.",
-    technologies: ["JavaScript", "Tailwind", "HTML"],
-    netlify: "https://semesterproject2bv.netlify.app/",
-    github: "https://github.com/Beatevangsnes/Semester-Project-2",
-  },
+
 ];
 
 export const CONTACT = {
