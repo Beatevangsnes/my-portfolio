@@ -26,7 +26,7 @@ const iconVariants = (duration) => ({
 
 const Technologies = () => {
   return (
-    <div className=' min-h-screen'>
+    <div className=' '>
       <motion.h1 
       whileInView={{ opacity: 1, x: 0 }}
       initial={{ opacity: 0, x: -100 }}
