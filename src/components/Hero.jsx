@@ -25,7 +25,7 @@ const Hero = () => {
             variants={container(0)}
             initial='hidden'
             animate='visible'
-            className='pb-4 text-6xl tracking-light lg:mt-16 lg:text-8xl text-custom_pink font-montserrat font-black'>Hi there,
+            className='pb-4 text-6xl tracking-light lg:mt-16 lg:text-8xl text-custom_pink font-black'>Hi there,
               I'm Beate!</motion.h1>
             <motion.p 
             variants={container(.5)}
